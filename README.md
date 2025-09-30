@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey, I’m vixnz
 
-<!--
-**vixnz/vixnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently in 12th grade (drop year), exploring Linux internals, automation, and systems recovery.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### [Linux Rescue Drive](https://github.com/vixnz/RISC)
+Bootable USB rescue system for Linux:
+- Automatic GRUB + filesystem repair with rollback
+- Handles Btrfs, LVM, XFS, and more
+- Dual-boot Windows protection
+- Persistent logging + structured error handling
+
+### [Windows Auto-Installer](https://github.com/vixnz/whatrankamI)
+- Creates self-installing Windows ISOs  
+- USB auto-boot setup (no BIOS menus)  
+- Full unattended installation in ~30 mins  
+
+---
+
+## 📖 Skills
+- **Languages:** Bash, Python, C basics
+- **Tools:** Linux (Arch btw), Git, Docker, VS Code, Experienced with AI
+- **Domains:** Systems programming, automation, recovery tools  
+
+---
+
+## 📫 Contact
+- GitHub: [@vixnz](https://github.com/vixnz)  
+- Reach me at vixnz.r@gmail.com
+  
+
+
